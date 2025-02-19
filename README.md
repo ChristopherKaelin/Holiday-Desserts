@@ -1,4 +1,6 @@
-# **HolidayDessertStore**
+This is my copy from the original GitHub repository of Brett Smith @ https://github.com/brett03112/Code-You-Final-Project
+
+# **HolidayDesserts**
 
 This is the final project for the Code: KY May 2024 cohort, a complete e-commerce site for a holiday-themed dessert store serving a local community center.
 
